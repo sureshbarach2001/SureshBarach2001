@@ -1,3 +1,4 @@
+![logo](https://github.com/sureshbarach2001/SureshBarach2001/blob/main/New%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Suresh Barach</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
